@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Aura" parent="Theme.MaterialComponents.Light" />
+</resources>
